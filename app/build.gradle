@@ -10,7 +10,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion '26.0.2'
     defaultConfig {
-        applicationId "br.com.tarefei"
+        applicationId "br.com.stefan.TMDbKotlin"
         minSdkVersion 16
         targetSdkVersion 25
         versionCode 1
